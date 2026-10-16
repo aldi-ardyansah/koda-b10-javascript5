@@ -11,10 +11,10 @@ function temperatureConverter() {
     const hasil = formula;
 
     console.log('Program Konversi Suhu Tanpa Built-in Method');
-    console.log('Suhu Celcius Adalah: ' + suhuCelcius);
-    console.log('Suhu Reamur Adalah: ' + hasil.suhuReamur);
-    console.log('Suhu Fahrenheit Adalah: ' + hasil.suhuFahrenheit);
-    console.log('Suhu Kelvin Adalah: ' + hasil.suhuKelvin);
+    console.log('Suhu Celcius: ' + suhuCelcius);
+    console.log('Suhu Reamur: ' + hasil.suhuReamur);
+    console.log('Suhu Fahrenheit: ' + hasil.suhuFahrenheit);
+    console.log('Suhu Kelvin: ' + hasil.suhuKelvin);
 
     return hasil;
 }
@@ -38,7 +38,7 @@ function temperatureConverterBuiltInMethod() {
     });
 
     console.log('Program Konversi Suhu Dengan Built-in Method');
-    console.log('Suhu Celcius Adalah: ' + suhuCelcius);
+    console.log('Suhu Celcius: ' + suhuCelcius);
     console.log(hasil.join('\n'));
 
     return formula;
