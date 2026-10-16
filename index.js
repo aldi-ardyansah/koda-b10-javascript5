@@ -1,4 +1,4 @@
-// Program Konversi Suhu Tanpa Build-in Method
+// Program Konversi Suhu Tanpa Built-in Method
 function temperatureConverter() {
     const suhuCelcius = 30;
 
@@ -23,8 +23,8 @@ temperatureConverter();
 
 console.log('');
 
-// Program Konversi Suhu dengan Build-in Method
-function temperatureConverterBuildInMethod() {
+// Program Konversi Suhu dengan Built-in Method
+function temperatureConverterBuiltInMethod() {
     const suhuCelcius = 30;
 
     const formula = {
@@ -43,4 +43,4 @@ function temperatureConverterBuildInMethod() {
 
     return formula;
 }
-temperatureConverterBuildInMethod();
+temperatureConverterBuiltInMethod();

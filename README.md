@@ -1,4 +1,4 @@
-# Konverter Suhu dengan Build-in Method dan Tanpa Build-in Method
+# Konverter Suhu dengan Built-in Method dan Tanpa Built-in Method
 
 ## Flowchart
 ```mermaid
